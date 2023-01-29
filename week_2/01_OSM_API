@@ -1,0 +1,37 @@
+OSM API and tools for data connection
+
+	Enables developers to interact with OSM websites programatically
+	We use API to extract data from facebook and twitter etc.
+	Rate limit : How much data requests can we make
+	Each osm have its own API 	and API rate limits
+API 
+	API sends data in 
+			- JSON
+			- XML
+JSON
+	javascript Object Notation
+	Data structuring notation
+	
+	viewing 
+		jsonviewer.stack.hu
+MYSQL
+	relational data base
+	data stored in rows and columns
+ 	sql queries retrieve data
+
+MongoDB
+	
+PhpMyAdmin
+	Access MYSQL DB using browser
+
+RoboMongo
+	viewing data from MongoDB
+
+All content is facebook is in Graph format
+	
+	GraphAPI
+		interface to ectract data related to user profiles, activities etc..
+All objects stored as nodes in the graph
+Connections , friends etc are edges
+All nodes have unique numeric id
+	
