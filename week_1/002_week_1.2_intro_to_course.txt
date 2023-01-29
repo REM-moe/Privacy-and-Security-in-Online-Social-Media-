@@ -1,0 +1,32 @@
+ + Types Of Social Media's
+ 	- Ephemeral Social Media Networks
+		~ content is posted and it is destroyed by itself
+		~ Data is destroyed after sometime 
+		~ Ex : Snapchat
+	- Anonymous Social Media Networks
+		~ where it is hard to track the user posting the content
+		~ helps in being anonymous 
+		~ Ex : Whisper
+ + OSM penetration in INDIA 
+
+  + 4/5 V's Of Social Media
+  	1. Velocity
+		speed of which data is being generated in the Media
+	2. Variety 
+		Variety of available categories
+	3. Veracity 
+		how Factual the content is 
+	4. Volume 
+		the voume of data generated in the Media
+	5. value
+		how the content in the media brings value to the media
+
+ - Bidirectional Social Media 
+ 	~ 2 parties must be present for a feauture to work 
+	~ Ex : a friend request in Facebook
+ - Unidirectional Social Media
+ 	~ Twitter is an example (twitter is Ex for a microblogging website)
+	~ we can follow view without the need for the other persons involvement (mostly)
+
+ + REALITY AND PERCEPTIONS ON Social Media
+
